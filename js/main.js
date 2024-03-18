@@ -15,7 +15,7 @@ btn.onclick = function(dateString) {
         age--;
     }
 
-    //عرض النتيجه
+    //عرض النتيجه`
     Total.innerHTML = " Your Age Is :  " + "<b>" + age + " </b>" + " Years Old" ; 
     Total.style.display = "block";
 }
